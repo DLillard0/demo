@@ -8,6 +8,10 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "element-plus": "^2.2.27",
+    "konva": "^8.3.14",
+    "sass": "^1.57.1",
+    "sass-loader": "^13.2.0",
     "vue": "^3.2.13"
   },
   "devDependencies": {
